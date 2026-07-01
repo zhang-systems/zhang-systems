@@ -8,6 +8,8 @@ Interested in applying machine learning to real-world problems, especially in se
 
 ##  Featured Projects
 
+* **Phishing Website Detector** ML pipeline with scikit-learn (EDA, feature analysis, Random Forest) plus a live Streamlit demo, https://zhang-phishing-detector.streamlit.app/
+
 * **3D Particle System with Gesture Control**
   Real-time 3D visualization using Three.js, WebGL, and MediaPipe
 
