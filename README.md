@@ -14,7 +14,7 @@ Interested in applying machine learning to real-world problems, especially in se
 * **phishing-detection** Machine learning project to detect phishing websites using Kaggle and UCI datasets. Live Demo: https://zhang-phishing-detector.streamlit.app/
 
 * **3D Particle System with Gesture Control**
-  Real-time 3D visualization using Three.js, WebGL, and MediaPipe
+  Real-time 3D visualization using Three.js, WebGL, and MediaPipe.Live Demo: https://luminaq.netlify.app/
 
 * **Salary Prediction (Linear Regression)**
   End-to-end ML pipeline with NumPy, Pandas, and scikit-learn (EDA, training, evaluation)
