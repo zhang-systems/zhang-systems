@@ -7,8 +7,12 @@ Interested in applying machine learning to real-world problems, especially in se
 -----------------------------------------------------------------------------------------------------
 
 ##  Featured Projects
+* **malware-detection-ember2024** ML-based malware detection on EMBER2024 (3.2M samples) — LightGBM evaluated against evasive malware that bypassed 70+ antivirus engines
 
-* **Phishing Website Detector** ML pipeline with scikit-learn (EDA, feature analysis, Random Forest) plus a live Streamlit demo, https://zhang-phishing-detector.streamlit.app/
+* **ai4all-accessmap** AccessMap: Machine Learning for Public Accessibility — AI4ALL 13A group project. Live Demo: https://accessmap-13a.streamlit.app/
+
+* **phishing-detection** Machine learning project to detect phishing websites using Kaggle and UCI datasets. Live Demo: https://zhang-phishing-detector.streamlit.app/
+Try it here: https://zhang-phishing-detector.streamlit.app
 
 * **3D Particle System with Gesture Control**
   Real-time 3D visualization using Three.js, WebGL, and MediaPipe
