@@ -16,7 +16,7 @@ Interested in applying machine learning to real-world problems, especially in se
 
   Sidewalk accessibility modeling & semantic retrieval — AI4ALL group project. Generated ModernBERT embeddings, built FAISS search indexes, trained predictive models, and investigated model bias. Live Demo: https://accessmap-13a.streamlit.app/
 
-- **Applied Cryptography & Web Session Security**
+- **Applied Cryptography & Web Session Security** — *CMSC 426 coursework*
 
   Implemented asymmetric file encryption and public-key exchange with OpenPGP (GnuPG). Demonstrated a JWT session-token replay attack against a Docker-hosted OWASP Juice Shop environment and analyzed mitigations (HttpOnly, SameSite, Secure cookies, token expiration).
 
@@ -65,5 +65,3 @@ Machine Learning · Cybersecurity · AI for Security · Reverse Engineering · S
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/zheng-dana-zhang
-
-
