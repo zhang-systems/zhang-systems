@@ -1,8 +1,8 @@
 # Hi there, I am Zheng Zhang 👋
 
-CS student at UMBC (AI/ML Track) focused on AI/ML and cybersecurity.
+CS student at UMBC focused on AI/ML and cybersecurity.
 
-Interested in applying machine learning to real-world problems, especially in security-related areas. I build software from both ends: ML pipelines in Python, and low-level systems in C with an emphasis on memory safety.
+Interested in applying machine learning to real-world problems, especially in security-related areas.
 
 ---
 
@@ -58,7 +58,7 @@ Interested in applying machine learning to real-world problems, especially in se
 
 ## Interests
 
-Machine Learning · Cybersecurity · AI for Security · Reverse Engineering · System Architecture
+Artificial Intelligence · Machine Learning · Cybersecurity · AI for Security · Reverse Engineering · System Architecture
 
 ---
 
