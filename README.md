@@ -1,72 +1,69 @@
 # Hi there, I am Zheng Zhang 👋
 
-CS student at UMBC focused on AI/ML and cybersecurity.
+CS student at UMBC (AI/ML Track) focused on AI/ML and cybersecurity.
 
-Interested in applying machine learning to real-world problems, especially in security-related areas.
+Interested in applying machine learning to real-world problems, especially in security-related areas. I build software from both ends: ML pipelines in Python, and low-level systems in C with an emphasis on memory safety.
 
------------------------------------------------------------------------------------------------------
+---
 
-##  Featured Projects
-* **malware-detection-ember2024** | https://github.com/zhang-systems/malware-detection-ember2024
+## Featured Projects
 
-  ML-based malware detection on EMBER2024 (3.2M samples) — LightGBM evaluated against evasive malware that bypassed 70+ antivirus engines
+- **[malware-detection-ember2024](https://github.com/zhang-systems/malware-detection-ember2024)**
 
-* **ai4all-accessmap** | https://github.com/zhang-systems/ai4all-accessmap
+  End-to-end malware classification pipeline on the EMBER2024 benchmark (3.2M samples). Reproduced the official LightGBM baseline, now training custom models and evaluating detection of evasive malware that bypassed 70+ antivirus engines, with SHAP-based model interpretation. *(In progress)*
 
-  AccessMap: Machine Learning for Public Accessibility — AI4ALL 13A group project. Live Demo: https://accessmap-13a.streamlit.app/
+- **[ai4all-accessmap](https://github.com/zhang-systems/ai4all-accessmap)**
 
-* **phishing-detection** | https://github.com/zhang-systems/phishing-detection
+  Sidewalk accessibility modeling & semantic retrieval — AI4ALL group project. Generated ModernBERT embeddings, built FAISS search indexes, trained predictive models, and investigated model bias. Live Demo: https://accessmap-13a.streamlit.app/
 
-  Machine learning project to detect phishing websites using Kaggle and UCI datasets. Live Demo: https://zhang-phishing-detector.streamlit.app/
+- **Applied Cryptography & Web Session Security**
 
-* **3D Particle System with Gesture Control** | https://github.com/zhang-systems/3d-particle-gesture-system
+  Implemented asymmetric file encryption and public-key exchange with OpenPGP (GnuPG). Demonstrated a JWT session-token replay attack against a Docker-hosted OWASP Juice Shop environment and analyzed mitigations (HttpOnly, SameSite, Secure cookies, token expiration).
 
-  Real-time 3D visualization using Three.js, WebGL, and MediaPipe.Live Demo: https://luminaq.netlify.app/
+- **[mini-shell](https://github.com/zhang-systems/mini-shell)** — Unix Shell in C
 
-* **Minimal HTTP Server in C** | https://github.com/zhang-systems/c-linux-practice
+  Unix shell with command parsing, process creation via `fork()`/`execvp()`, and SIGINT/SIGCHLD signal handling for clean child termination. Implemented I/O redirection with `pipe()` and `dup2()`. Verified memory safety across all command paths using Valgrind and GDB.
 
-  Built a basic HTTP/1.1 server using POSIX sockets to explore networking fundamentals
-  
-* **Unix Shell in C** | https://github.com/zhang-systems/mini-shell
+- **[c-http-server](https://github.com/zhang-systems/c-linux-practice)** — HTTP/1.1 Server in C
 
-  Implemented a simple shell with process control (fork/exec) and system calls
-  
-* **Salary Prediction (Linear Regression)** | https://github.com/zhang-systems/salary-prediction
+  Single-threaded HTTP/1.1 server built from scratch on POSIX sockets, conforming to RFC 7230 message framing. Manual request parsing with strict bounds checking on all input buffers to prevent overflow and injection vulnerabilities.
 
-  End-to-end ML pipeline with NumPy, Pandas, and scikit-learn (EDA, training, evaluation)
--------------------------------------------------------------------------------------------------------
+- **[phishing-detection](https://github.com/zhang-systems/phishing-detection)**
 
-##  Interests
+  Machine learning models to detect phishing websites using Kaggle and UCI datasets. Live Demo: https://zhang-phishing-detector.streamlit.app/
 
-* Machine Learning
-* Cybersecurity
-* AI for Security
-* Reverse Engineering
-* System architecture
+- **[3d-particle-gesture-system](https://github.com/zhang-systems/3d-particle-gesture-system)**
 
--------------------------------------------------------------------------------------------------------
+  Real-time 3D visualization with gesture control using Three.js, WebGL, and MediaPipe. Live Demo: https://luminaq.netlify.app/
 
-##  SKILLS
+---
 
-Programming Languages:
-C++, C, Python, JavaScript, Java, x86_64 Assembly
+## Skills
 
-Machine Learning:
-NumPy, Pandas, scikit-learn, Matplotlib
+**Languages:** C, C++, x86-64 Assembly, Python, Java, Bash
 
-Systems & Security:
-Linux, Memory Management, Pointer Arithmetic, System Calls
+**AI / Machine Learning:** scikit-learn, pandas, NumPy, FAISS, Matplotlib
 
-Tools:
-GDB, Valgrind, Git/GitHub, MATLAB, VirtualBox
+**Systems & Networking:** Linux, POSIX Sockets, TCP/IP, fork/exec/wait, Signals, pipe()/dup2()
 
-Languages:
-Mandarin Chinese (Native), English (Professional)
+**Security:** Memory Safety, Bounds Checking, Input Validation, RFC Compliance, Network Security Principles
 
-------------------------------------------------------------------------------------------------------
+**Debugging & Analysis:** GDB, Valgrind, Static Analysis
 
-## 🔗 Links
+**Tools:** Git/GitHub, Docker, VirtualBox, MATLAB
 
-* LinkedIn: https://www.linkedin.com/in/zheng-dana-zhang
+**Spoken Languages:** Mandarin Chinese (Native), English (Professional)
+
+---
+
+## Interests
+
+Machine Learning · Cybersecurity · AI for Security · Reverse Engineering · System Architecture
+
+---
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/zheng-dana-zhang
 
 
