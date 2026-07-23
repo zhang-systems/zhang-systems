@@ -7,7 +7,8 @@ Interested in applying machine learning to real-world problems, especially in se
 -----------------------------------------------------------------------------------------------------
 
 ##  Featured Projects
-* **malware-detection-ember2024** ML-based malware detection on EMBER2024 (3.2M samples) — LightGBM evaluated against evasive malware that bypassed 70+ antivirus engines
+* **malware-detection-ember2024** https://github.com/zhang-systems/malware-detection-ember2024
+* ML-based malware detection on EMBER2024 (3.2M samples) — LightGBM evaluated against evasive malware that bypassed 70+ antivirus engines
 
 * **ai4all-accessmap** AccessMap: Machine Learning for Public Accessibility — AI4ALL 13A group project. Live Demo: https://accessmap-13a.streamlit.app/
 
